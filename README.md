@@ -15,9 +15,13 @@ Play with a friend, enjoy a responsive design, and get instant win/draw detectio
 ---
 
 ## 📂 Project Structure
+
 ├── index.html # Main game layout
+
 ├── style.css # Styling for the game
+
 └── script.js # Game logic and interactivity
+
 
 yaml
 Copy code
@@ -53,7 +57,11 @@ Copy code
 Navigate to the project folder:
 
 bash
+
 Copy code
+
 cd tic-tac-toe
+
 Open index.html in your browser and start playing!
+
 
