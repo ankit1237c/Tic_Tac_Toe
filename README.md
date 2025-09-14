@@ -23,8 +23,6 @@ Play with a friend, enjoy a responsive design, and get instant win/draw detectio
 └── script.js # Game logic and interactivity
 
 
-yaml
-Copy code
 
 ---
 
@@ -39,8 +37,8 @@ Copy code
 
 ## 🛠️ Technologies Used
 - **HTML5**
-- **CSS3**
-- **JavaScript (Vanilla JS)**
+- **CSS**
+- **JavaScript**
 
 ---
 
@@ -52,16 +50,13 @@ Copy code
 
 ## 📌 Installation / Usage
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
-Navigate to the project folder:
 
-bash
-
-Copy code
+git clone https://github.com/your-username/tic-tac-toe.git
+   
+2.Navigate to the project folder:
 
 cd tic-tac-toe
 
-Open index.html in your browser and start playing!
+3.Open index.html in your browser and start playing!
 
 
